@@ -2,7 +2,7 @@
 
 A small web app that reads resumes (.docx or .pdf), pulls out job-related information, and ranks each resume against two job posts: **LCA Consultant** and **UI/UX Design Intern**. It is built to help a non-technical hiring team review candidates. It supports review and does not make hiring decisions.
 
-Live app: [add Vercel link here]
+Live app: (https://resume-ranker-eta.vercel.app/)
 
 ## What it does
 
